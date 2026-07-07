@@ -34,6 +34,21 @@
 - [About](https://talkischeap.io/about): Company story and philosophy
 - [Contact](https://talkischeap.io/contact): Sales and support contact
 
+## Blog Articles
+
+- [What Is UCaaS? The Complete 2026 Guide](https://talkischeap.io/blog/what-is-ucaas-complete-guide-2026): Plain-English UCaaS explainer with 2026 pricing bands and buying criteria
+- [UCaaS vs. VoIP: What's the Difference?](https://talkischeap.io/blog/ucaas-vs-voip-whats-the-difference): VoIP is the transport, UCaaS is the platform — which your business needs
+- [How Much Does a Business Phone System Cost in 2026?](https://talkischeap.io/blog/business-phone-system-cost-2026): Real per-user price bands, hidden fees, and a 10-person office budget
+- [AI Receptionists for Small Business](https://talkischeap.io/blog/ai-receptionist-small-business-guide): What AI answering does, what it costs, and how to deploy it well
+- [How to Port Your Business Phone Number Without Downtime](https://talkischeap.io/blog/business-phone-number-porting-guide): LNP process, timeline, and the mistakes that cause port rejections
+- [The Real Cost of Missed Calls](https://talkischeap.io/blog/cost-of-missed-calls-small-business): Missed-call statistics and the revenue math, with fixes ranked by ROI
+- [HIPAA-Compliant Texting for Medical & Dental Practices](https://talkischeap.io/blog/hipaa-compliant-texting-guide): What HIPAA actually requires for SMS, BAAs, and a compliance checklist
+- [A2P 10DLC Explained](https://talkischeap.io/blog/a2p-10dlc-business-texting-rules): US carrier registration rules for business texting and why unregistered texts get filtered
+- [The 15-Point UCaaS Feature Checklist](https://talkischeap.io/blog/ucaas-feature-checklist-small-business): Demo-ready evaluation checklist plus the contract traps
+- [VoIP Call Quality: Why Calls Sound Bad and How to Fix It](https://talkischeap.io/blog/voip-call-quality-guide): Bandwidth, jitter, latency, SIP ALG, and the router fixes that solve 90% of issues
+- [Switching Business Phone Providers: The Zero-Drama Checklist](https://talkischeap.io/blog/switching-business-phone-providers-checklist): Three-week migration plan with no missed calls
+- [Phone System vs. Contact Center: When to Upgrade](https://talkischeap.io/blog/phone-system-vs-contact-center): Five signals you've outgrown a plain phone system
+
 ## Key Facts
 
 - Product category: UCaaS / cloud business phone system / business communications platform
