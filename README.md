@@ -23,7 +23,7 @@ npm run build    # production build to dist/
 - `/features` + 7 detail pages: cloud-voice, messaging, video-meetings, ai-receptionist, contact-center, integrations, analytics
 - `/pricing` — 3 tiers with monthly/annual toggle + honest-cost comparison
 - `/industries` + 4 detail pages: healthcare, legal, real-estate, home-services
-- `/blog` + 4 SEO articles, `/faq`, `/about`, `/contact`, `/privacy`, `/terms`
+- `/blog` + 12 SEO/AEO articles (guides, compliance, how-to, buyer guides), `/faq`, `/about`, `/contact`, `/privacy`, `/terms`
 
 ## SEO / GEO / AEO
 
