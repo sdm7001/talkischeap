@@ -12,9 +12,9 @@ interface PageMeta {
 
 const PAGE_SEO: Record<string, PageMeta> = {
   "/": {
-    title: "Talk Is Cheap — Enterprise UCaaS Without the Enterprise Price | Business Phone, SMS, Video & AI",
+    title: "Cheap Business Phone System | UCaaS from $14.99/mo | Talk Is Cheap",
     description:
-      "All-in-one UCaaS: cloud business phone, SMS, video meetings, AI receptionist, contact center and 100+ integrations — at a price that makes the big carriers nervous. From $14.99/user.",
+      "All-in-one cloud phone, SMS, video, and AI receptionist for small business. Plans from $14.99/user/month. No contracts, no setup fees.",
   },
   "/features": {
     title: "Features — Everything Your Business Uses to Talk | Talk Is Cheap",
@@ -72,9 +72,9 @@ for (const p of BLOG_POSTS) {
 }
 
 const DEFAULT_META: PageMeta = {
-  title: "Talk Is Cheap — Enterprise UCaaS Without the Enterprise Price",
+  title: "Cheap Business Phone System | UCaaS from $14.99/mo | Talk Is Cheap",
   description:
-    "Cloud business phone, SMS, video, AI receptionist and contact center in one platform. Carrier-grade voice. Disruptive pricing.",
+    "All-in-one cloud phone, SMS, video, and AI receptionist for small business. Plans from $14.99/user/month. No contracts, no setup fees.",
 };
 
 /** Upsert a <meta> tag identified by name= or property=. */

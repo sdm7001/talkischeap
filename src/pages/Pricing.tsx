@@ -10,6 +10,17 @@ import { FAQS } from "@/data/faqs";
 import { SITE_URL } from "@/data/site";
 import { cn } from "@/lib/utils";
 
+/** FAQPage schema for the pricing FAQ teaser (FAQS indices 1–4) */
+const pricingFaqLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: FAQS.slice(1, 5).map((faq) => ({
+    "@type": "Question",
+    name: faq.question,
+    acceptedAnswer: { "@type": "Answer", text: faq.answer },
+  })),
+};
+
 const pricingLd = {
   "@context": "https://schema.org",
   "@type": "Product",
@@ -41,6 +52,7 @@ export default function Pricing() {
       <SEO
         jsonLd={[
           pricingLd,
+          pricingFaqLd,
           breadcrumbLd([{ name: "Home", path: "/" }, { name: "Pricing", path: "/pricing" }]),
         ]}
       />
