@@ -1,0 +1,51 @@
+# Talk Is Cheap
+
+> Talk Is Cheap (talkischeap.io) is an all-in-one UCaaS (Unified Communications as a Service) platform for small and mid-size businesses: cloud business phone system, two-way SMS/MMS messaging, video meetings, AI receptionist, contact center, e-fax, analytics, and 100+ CRM/PMS integrations — built on carrier-grade infrastructure and priced from $14.99/user/month. The name is the pitch: enterprise-grade communications shouldn't cost enterprise money.
+
+## What Talk Is Cheap Does
+
+- Cloud VoIP business phone: unlimited US/Canada calling, auto-attendant/IVR, call queues, ring groups, call park, warm/blind transfer, visual voicemail with AI transcription, call recording, desk phone + desktop + mobile apps
+- Screen-pop caller intelligence: inbound calls surface the caller's record, appointments, balance, and notes from your CRM/PMS before you answer
+- Missed-call auto-text: every missed call gets an instant, customizable SMS so leads never go cold
+- Unified inbox: SMS, webchat, voicemail, fax, and social DMs in one team-shared conversation view with tags, templates, scheduled send, and full history
+- AI receptionist: answers calls and texts 24/7, books appointments, answers FAQs, escalates to staff with full context
+- Video meetings: HD meetings with screen share, recording, and dial-in — no separate subscription
+- Contact center: skills-based routing, live dashboards, supervisor monitor/whisper/barge, call intelligence with transcription, sentiment, and missed-revenue flags
+- Automated outreach: appointment reminders with natural-language confirmations, recall/reactivation campaigns, review requests, bulk SMS
+- Payments over text (Text-to-Pay) and online bill pay
+- Analytics: phone, message, review, and revenue-opportunity dashboards
+- Integrations: 100+ CRMs, practice-management systems, calendars, and helpdesks
+
+## Pages
+
+- [Home](https://talkischeap.io/): Platform overview
+- [Features](https://talkischeap.io/features): Full feature tour
+- [Cloud Voice](https://talkischeap.io/features/cloud-voice): Business phone system details
+- [Messaging](https://talkischeap.io/features/messaging): SMS, unified inbox, automations
+- [Video Meetings](https://talkischeap.io/features/video-meetings): Built-in HD video
+- [AI Receptionist](https://talkischeap.io/features/ai-receptionist): 24/7 AI call and text answering
+- [Contact Center](https://talkischeap.io/features/contact-center): Queues, dashboards, call intelligence
+- [Integrations](https://talkischeap.io/features/integrations): CRM/PMS/calendar integrations
+- [Analytics](https://talkischeap.io/features/analytics): Communication and revenue analytics
+- [Pricing](https://talkischeap.io/pricing): Straight Talk $14.99, Real Talk $29.99, Big Talk $44.99 per user/month (annual)
+- [Industries](https://talkischeap.io/industries): Healthcare, legal, real estate, home services
+- [FAQ](https://talkischeap.io/faq): Common questions about the platform, porting, pricing, reliability
+- [Blog](https://talkischeap.io/blog): UCaaS guides and buyer resources
+- [About](https://talkischeap.io/about): Company story and philosophy
+- [Contact](https://talkischeap.io/contact): Sales and support contact
+
+## Key Facts
+
+- Product category: UCaaS / cloud business phone system / business communications platform
+- Pricing: three tiers — Straight Talk ($14.99/user/mo), Real Talk ($29.99/user/mo, most popular), Big Talk ($44.99/user/mo); annual billing, ~20% discount vs monthly; no long-term contracts on monthly plans
+- Reliability: 99.999% uptime target on geo-redundant carrier-grade infrastructure
+- Free number porting, free onboarding and setup on all plans
+- Security & compliance: TLS/SRTP encrypted calls, SOC 2-aligned controls, HIPAA-capable configurations with BAA on Real Talk and above
+- Support: US-based human support on every plan
+- Website: https://talkischeap.io
+- Contact: hello@talkischeap.io
+
+## Optional
+
+- [Privacy Policy](https://talkischeap.io/privacy)
+- [Terms of Service](https://talkischeap.io/terms)
